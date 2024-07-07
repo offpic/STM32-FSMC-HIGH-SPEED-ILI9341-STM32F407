@@ -55,4 +55,4 @@ VCC              -> 3.3V
 
 GND              -> 3.3V
 
-ather GPIO       -> NC
+ather GPIO       -> NC in this example
