@@ -48,3 +48,11 @@ FSMC_D13(PD8)		-> LCD_D5
 FSMC_D14(PD9)		-> LCD_D6
 
 FSMC_D15(PD10)	-> LCD_D7
+
+BL               -> 3.3V
+
+VCC              -> 3.3V
+
+GND              -> 3.3V
+
+ather GPIO       -> NC
