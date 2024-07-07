@@ -49,7 +49,7 @@ FSMC_D14(PD9)		-> LCD_D6
 
 FSMC_D15(PD10)	-> LCD_D7
 
-BL               -> 3.3V
+BL = LED_A      -> 3.3V
 
 VCC              -> 3.3V
 
