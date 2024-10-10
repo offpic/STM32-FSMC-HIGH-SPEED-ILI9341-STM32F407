@@ -5,7 +5,6 @@ https://www.youtube.com/watch?v=UKw-j3FilN8
 
 ![Screenshot_11](https://github.com/offpic/STM32-FSMC-HIGH-SPEED-ILI9341-STM32F407/assets/31142397/106944f1-8eda-4ba5-9bb8-d299e2df0578)
 
-![Screenshot_2](https://github.com/offpic/STM32-FSMC-HIGH-SPEED-ILI9341-STM32F407/assets/31142397/589f8e23-7ec5-4470-9322-1eb25f0d9609)
 
 FSMC_NE1(PD7)   -> LCD_CS
 
